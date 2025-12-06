@@ -9,13 +9,13 @@
 
     <extension point="xbmc.addon.repository">
       <info compressed="false">
-        https://drive.google.com/uc?export=download&id=13uEnYuLT7DzIpWEirzZjzxnXwuXSKUBs
+        https://drive.google.com/uc?export=download&id=1vVRAP5oApfPkMAHbdCc3yQ3D-Tc2Le4M
       </info>
       <checksum>
-        https://drive.google.com/uc?export=download&id=1jMs1J8kJac0gdAyrepc0PGZEp64U0AP-
+        https://drive.google.com/uc?export=download&id=1I6s2HDV0KTx1hYX-sfFNhisBgaoTqCc2
       </checksum>
       <datadir zip="false">
-        https://drive.google.com/uc?export=download&id=13uEnYuLT7DzIpWEirzZjzxnXwuXSKUBs
+        https://drive.google.com/uc?export=download&id=1vVRAP5oApfPkMAHbdCc3yQ3D-Tc2Le4M
       </datadir>
     </extension>
 
