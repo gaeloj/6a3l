@@ -9,13 +9,13 @@
 
     <extension point="xbmc.addon.repository">
       <info compressed="false">
-        https://gaeloj.github.io/6a3l/repository.6a3l/
+        https://drive.google.com/uc?export=download&id=SEU_ID_DO_ADDONS_XML
       </info>
       <checksum>
-        https://gaeloj.github.io/6a3l/repository.6a3l/addons.xml.md5
+        https://drive.google.com/uc?export=download&id=SEU_ID_DO_ADDONS_XML_MD5
       </checksum>
       <datadir zip="false">
-        https://gaeloj.github.io/6a3l/repository.6a3l/
+        https://drive.google.com/uc?export=download&id=SEU_ID_DO_ADDONS_XML
       </datadir>
     </extension>
 
@@ -51,4 +51,3 @@
 
   </addon>
 </addons>
-
